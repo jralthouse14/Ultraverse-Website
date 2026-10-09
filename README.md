@@ -1,3 +1,5 @@
+Enjoy highly creative digital items designed by some of the most amazing artists. Get to know your outstanding artists and contributers behind these wonderful masterpieces.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
